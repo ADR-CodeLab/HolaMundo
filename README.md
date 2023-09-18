@@ -12,7 +12,7 @@
 
    - **Entrada:** El programa debe permitir que el usuario ingrese un texto desde cualquier lugar que desee.
    
-   - **Salida:** El programa debe imprimir la siguiente línea: "¡Bienvenido/a al lugar de [aquí debes mencionar el lugar que ingresó el usuario]!"
+   - **Salida:** El programa debe imprimir la siguiente línea: "Bienvenido/a al lugar de [aquí debes mencionar el lugar que ingresó el usuario]!"
 
    | Entrada  | Salida                                        |
    |----------|-----------------------------------------------|
