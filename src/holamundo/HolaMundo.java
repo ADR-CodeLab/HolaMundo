@@ -4,7 +4,7 @@ public class HolaMundo {
     
     public static void main(String[] args) {
 
-        // Escribe tu código aquí
+        // Escribe tu codigo aqui
         
     } // Cierra metodo main
     
