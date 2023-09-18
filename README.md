@@ -16,7 +16,7 @@
 
    | Entrada  | Salida                                        |
    |----------|-----------------------------------------------|
-   | Tecnm    | ¡Bienvenido/a al lugar de Tecnm!             |
+   | Tecnm    | Bienvenido/a al lugar de Tecnm!             |
    
 4. Recuerda que esta asignación es un ejemplo y no será calificada.
 
